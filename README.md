@@ -59,6 +59,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Tech Stack Sharing
 - https://stackshare.io/
 
+# Markup format converter
+- https://pandoc.org/
+
 # Task/Ticket management
 - https://www.phacility.com/phabricator/
 
@@ -66,5 +69,11 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://flaviocopes.com/
 - https://blog.pragmaticengineer.com/
 
+# Ambient Sound
+ - https://asoftmurmur.com/
+ - https://noises.online/
+
 # Miscellaneous 
+- http://507movements.com/
+
 
