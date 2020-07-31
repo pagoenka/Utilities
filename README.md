@@ -1,16 +1,20 @@
 # Utilities
 Listing of various softwares/ libraries / websites / blogs / online tools which I find useful
 
-# Mocks, Flow & Diagrams
+# Mocks, Prototype, Flow & Diagrams
 - draw.io
 - https://excalidraw.com/
 - https://balsamiq.com/
 - https://www.yworks.com/products/yed
+- https://marvelapp.com/pop/?popref=1
 
 
 # Image Editors
 - https://krita.org/en/
 - https://www.gimp.org/
+
+# Image background remover
+- https://clippingmagic.com/
 
 # Lorem Ipsum Generator
 - https://picsum.photos/ (For Pics)
@@ -27,6 +31,16 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - Plotly.js
 - Highchart
 
+# Online JS Editor/Tester
+- https://jsfiddle.net/
+- https://jsbin.com/
+
+# Notes / Wiki App
+- TiddlyWiki
+
+# Proxy Servers
+- Envoy
+- Nginx
 
 # Mock REST API
 - reqres.in
@@ -46,7 +60,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://webgazer.cs.brown.edu/ (For EYE tracking)
 
 
-# Icons
+# Icons & Imoji
+- https://openmoji.org/
 
 # Visual Algorithms
 - https://visualgo.net/
@@ -59,11 +74,19 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Tech Stack Sharing
 - https://stackshare.io/
 
-# Markup format converter
+# Markup, Doc format converter
 - https://pandoc.org/
+- https://www.docverter.com/
 
 # Task/Ticket management
 - https://www.phacility.com/phabricator/
+
+# Blogging Tools
+- https://www.staticgen.com/
+- Jekyll
+
+# Site devolopment/ CSS / Color picker
+- https://color.hailpixel.com/
 
 # Blogs
 - https://flaviocopes.com/
@@ -72,6 +95,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Ambient Sound
  - https://asoftmurmur.com/
  - https://noises.online/
+ 
+ # Mathematics
+ - https://www.derivative-calculator.net/
 
 # Miscellaneous 
 - http://507movements.com/
