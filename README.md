@@ -30,6 +30,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - http://chartmaker.visualisingdata.com/
 - Plotly.js
 - Highchart
+- https://leeoniya.github.io/uPlot/
 
 # Online JS Editor/Tester
 - https://jsfiddle.net/
