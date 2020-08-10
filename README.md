@@ -12,6 +12,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Image Editors
 - https://krita.org/en/
 - https://www.gimp.org/
+- https://imagemagick.org/
 
 # Image background remover
 - https://clippingmagic.com/
