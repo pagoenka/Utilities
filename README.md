@@ -50,6 +50,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Mock REST API
 - reqres.in
 
+# Mockin Service
+- https://github.com/localstack/localstack
 
 # Regex tools
 
@@ -118,5 +120,11 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Miscellaneous 
 - http://507movements.com/
+
+# DR & Chaos Testing
+- https://github.com/Netflix/chaosmonkey
+- https://linkerd.io/2019/07/18/failure-injection-using-the-service-mesh-interface-and-linkerd/
+- https://github.com/adhorn/chaos-ssm-documents
+- https://www.gremlin.com/
 
 
