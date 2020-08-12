@@ -42,6 +42,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Notes / Wiki App
 - TiddlyWiki
+- https://www.notion.so/
+- Google Keep
 
 # Proxy Servers
 - Envoy
