@@ -9,6 +9,21 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://marvelapp.com/pop/?popref=1
 - https://isoflow.io/
 
+# HTML / CSS / Fonts / Icons
+- https://resourcecards.com/
+- CSS Tricks
+- http://cssicon.space/
+- https://fontawesome.com/
+- https://thenounproject.com/
+- http://ionicons.com/
+- https://zurb.com/playground/foundation-icon-fonts-3
+- http://s-ings.com/typicons/
+- http://fontello.com/
+- https://useiconic.com/
+- https://material.io/icons/
+- https://fonts.google.com/
+- https://feathericons.com/
+- https://brick.im/
 
 # Image Editors
 - https://krita.org/en/
@@ -20,6 +35,23 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Image Collection
 - https://unsplash.com/
+- http://pixabay.com/
+- https://stocksnap.io/
+- http://www.free-images.cc/
+- https://www.pexels.com/
+- http://librestock.com/
+- http://skuawk.com/
+- http://www.sitebuilderreport.com/stock-up
+- http://finda.photo/
+- http://foodshot.co/
+- http://growthtext.com/free-stock-photos/
+- https://www.stockified.com/
+- https://www.negativespace.co/
+- https://everypixel.com/
+- http://startupstockphotos.com/
+- https://foodiesfeed.com/
+- https://picjumbo.com/
+- https://www.stockio.com/
 
 # Lorem Ipsum Generator
 - https://picsum.photos/ (For Pics)
