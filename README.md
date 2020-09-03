@@ -155,6 +155,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Miscellaneous 
 - http://507movements.com/
+- https://observablehq.com/
 
 # DR & Chaos Testing
 - https://github.com/Netflix/chaosmonkey
