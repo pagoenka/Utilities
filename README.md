@@ -9,7 +9,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://marvelapp.com/pop/?popref=1
 - https://isoflow.io/
 
-# HTML / CSS / Fonts / Icons
+# HTML / CSS / Fonts / Icons / Colour Pallete
 - https://resourcecards.com/
 - CSS Tricks
 - http://cssicon.space/
@@ -24,6 +24,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://fonts.google.com/
 - https://feathericons.com/
 - https://brick.im/
+- https://tailwind.ink/
 
 # Image Editors
 - https://krita.org/en/
