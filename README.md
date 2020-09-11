@@ -53,6 +53,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://foodiesfeed.com/
 - https://picjumbo.com/
 - https://www.stockio.com/
+- https://zoomstock.com/
 
 # Lorem Ipsum Generator
 - https://picsum.photos/ (For Pics)
