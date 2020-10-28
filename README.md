@@ -1,13 +1,16 @@
 # Utilities
 Listing of various softwares/ libraries / websites / blogs / online tools which I find useful
 
-# Mocks, Prototype, Flow & Diagrams
+# Mocks, Prototype, Flow, Sequence &  Diagrams
 - draw.io
 - https://excalidraw.com/
 - https://balsamiq.com/
 - https://www.yworks.com/products/yed
 - https://marvelapp.com/pop/?popref=1
 - https://isoflow.io/
+- https://bramp.github.io/js-sequence-diagrams/
+- https://www.websequencediagrams.com/
+- https://sequencediagram.org/
 
 # HTML / CSS / Fonts / Icons / Colour Pallete
 - https://resourcecards.com/
