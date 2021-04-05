@@ -178,5 +178,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Tech Blogs
 - https://staffeng.com/
 
+# PDF Utilities
+- https://pdf.math.dev/
+
 
 
