@@ -14,6 +14,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://bramp.github.io/js-sequence-diagrams/
 - https://www.websequencediagrams.com/
 - https://sequencediagram.org/
+- https://swimlanes.io/
 
 # HTML / CSS / Fonts / Icons / Colour Pallete
 - https://resourcecards.com/
