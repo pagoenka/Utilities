@@ -15,6 +15,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.websequencediagrams.com/
 - https://sequencediagram.org/
 - https://swimlanes.io/
+- https://plantuml.com/
 
 # HTML / CSS / Fonts / Icons / Colour Pallete
 - https://resourcecards.com/
