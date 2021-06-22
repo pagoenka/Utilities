@@ -187,5 +187,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # PDF Utilities
 - https://pdf.math.dev/
 
+# Screen Recording, Screenshot
+- https://asciinema.org/
+
+
 
 
