@@ -39,6 +39,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://krita.org/en/
 - https://www.gimp.org/
 - https://imagemagick.org/
+- https://remove.bg
+- https://bigjpg.com/
 
 # Image background remover
 - https://clippingmagic.com/
