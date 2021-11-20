@@ -39,11 +39,12 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://krita.org/en/
 - https://www.gimp.org/
 - https://imagemagick.org/
-- https://remove.bg
 - https://bigjpg.com/
+- https://www.photopea.com/
 
 # Image background remover
 - https://clippingmagic.com/
+- https://remove.bg
 
 # Image Collection
 - https://unsplash.com/
@@ -169,6 +170,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Miscellaneous 
 - http://507movements.com/
 - https://observablehq.com/
+- https://ninite.com/
 
 # DR & Chaos Testing
 - https://github.com/Netflix/chaosmonkey
@@ -185,6 +187,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Tech Blogs
 - https://staffeng.com/
+- https://techurls.com/
 
 # PDF Utilities
 - https://pdf.math.dev/
