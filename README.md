@@ -45,7 +45,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Image background remover
 - https://clippingmagic.com/
 - https://remove.bg
-
+- https://onlinepngtools.com/create-transparent-png
+ 
 # Image Collection
 - https://unsplash.com/
 - http://pixabay.com/
