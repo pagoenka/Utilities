@@ -41,6 +41,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://imagemagick.org/
 - https://bigjpg.com/
 - https://www.photopea.com/
+- https://onlineimagetools.com/
 
 # Image background remover
 - https://clippingmagic.com/
@@ -100,13 +101,13 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Mock REST API
 - reqres.in
 
-# Mockin Service
+# Mocking Service
 - https://github.com/localstack/localstack
 
 # Regex tools
 
-# JSON Parsing
-
+# JSON/CSV Parsing
+- https://onlinecsvtools.com/
 
 # IP & Geolocation
 - https://ipdata.co/
@@ -148,6 +149,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Blogs
 - https://flaviocopes.com/
 - https://blog.pragmaticengineer.com/
+- https://www.engineeringtoolbox.com/
 
 # Ambient Sound
  - https://asoftmurmur.com/
@@ -155,6 +157,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
  
  # Mathematics
  - https://www.derivative-calculator.net/
+ - https://www.mathpapa.com/
 
 # Competitive Coding
 - Leetcode
@@ -172,6 +175,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - http://507movements.com/
 - https://observablehq.com/
 - https://ninite.com/
+- https://techurls.com
 
 # DR & Chaos Testing
 - https://github.com/Netflix/chaosmonkey
@@ -192,10 +196,13 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # PDF Utilities
 - https://pdf.math.dev/
+- https://www.ilovepdf.com/
 
 # Screen Recording, Screenshot
 - https://asciinema.org/
 
+# Automation Tools
+- https://www.autohotkey.com/
 
 
 
