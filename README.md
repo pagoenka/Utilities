@@ -208,4 +208,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Resume Maker
 - https://www.resumemaker.online/
 
+# CSV TSV Querying
+- https://github.com/multiprocessio/datastation
+- https://github.com/multiprocessio/dsq
+- https://github.com/cube2222/octosql
+- https://github.com/dinedal/textql
+- https://harelba.github.io/q/
 
