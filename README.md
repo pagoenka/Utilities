@@ -36,6 +36,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://brick.im/
 - https://tailwind.ink/
 
+# UI toolkit
+- https://www.uidesigndaily.com/
+
 # Image Editors
 - https://krita.org/en/
 - https://www.gimp.org/
