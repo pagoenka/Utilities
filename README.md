@@ -180,6 +180,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://observablehq.com/
 - https://ninite.com/
 - https://techurls.com
+- https://www.dimensions.com/
 
 # DR & Chaos Testing
 - https://github.com/Netflix/chaosmonkey
