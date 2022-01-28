@@ -109,6 +109,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/localstack/localstack
 
 # Regex tools
+- https://regexr.com/
 
 # JSON/CSV Parsing
 - https://onlinecsvtools.com/
