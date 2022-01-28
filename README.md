@@ -130,8 +130,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://algorithm-visualizer.org/
 - http://www.algomation.com/
 
-# Screen Recording
+# Screen Recording Video recording and live streaming
 - http://ink2go.org/
+- https://obsproject.com/
 
 # Tech Stack Sharing
 - https://stackshare.io/
