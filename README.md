@@ -97,6 +97,13 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - TiddlyWiki
 - https://www.notion.so/
 - Google Keep
+- https://obsidian.md/
+- https://github.com/tgrosinger/advanced-tables-obsidian
+- https://github.com/zadam/trilium
+- https://joplinapp.org/
+- Markor: Markdown Editor
+- https://zim-wiki.org/
+- https://foambubble.github.io/foam/
 
 # Proxy Servers
 - Envoy
