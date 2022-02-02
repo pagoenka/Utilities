@@ -1,8 +1,9 @@
 # Utilities
 Listing of various softwares/ libraries / websites / blogs / online tools which I find useful
 
-# Tool collecion site
+# Tools/Links/Utils collecion site
 - https://tinytools.directory/
+- https://github.com/sindresorhus/awesome#readme
 
 # Mocks, Prototype, Flow, Sequence &  Diagrams
 - draw.io
