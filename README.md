@@ -4,6 +4,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Tools/Links/Utils collecion site
 - https://tinytools.directory/
 - https://github.com/sindresorhus/awesome#readme
+- https://github.com/trimstray/the-book-of-secret-knowledge
 
 # Mocks, Prototype, Flow, Sequence &  Diagrams
 - draw.io
