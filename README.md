@@ -230,3 +230,5 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/dinedal/textql
 - https://harelba.github.io/q/
 
+# API Testing/Code generator
+- https://reqbin.com/
