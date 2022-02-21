@@ -79,6 +79,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://picjumbo.com/
 - https://www.stockio.com/
 - https://zoomstock.com/
+- https://mixkit.co/
 
 # Lorem Ipsum Generator
 - https://picsum.photos/ (For Pics)
@@ -150,6 +151,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://obsproject.com/
 - https://www.freescreenrecording.com/
 
+# Video Editor
+- https://www.openshot.org/download/
+
 # Tech Stack Sharing
 - https://stackshare.io/
 
@@ -171,6 +175,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://flaviocopes.com/
 - https://blog.pragmaticengineer.com/
 - https://www.engineeringtoolbox.com/
+- https://app.daily.dev/
+- https://www.producthunt.com/
 
 # Ambient Sound
  - https://asoftmurmur.com/
@@ -219,6 +225,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # PDF Utilities
 - https://pdf.math.dev/
 - https://www.ilovepdf.com/
+- https://pdfsam.org/
 
 # Screen Recording, Screenshot
 - https://asciinema.org/
@@ -238,3 +245,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # API Testing/Code generator
 - https://reqbin.com/
+
+# Beautify Code
+- https://ray.so/
+
+# Website downloader
+- https://site-dwloader.herokuapp.com/
