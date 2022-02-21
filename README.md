@@ -51,11 +51,13 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://bigjpg.com/
 - https://www.photopea.com/
 - https://onlineimagetools.com/
+- https://www.befunky.com/
 
 # Image background remover
 - https://clippingmagic.com/
 - https://remove.bg
 - https://onlinepngtools.com/create-transparent-png
+- https://www.slazzer.com/
  
 # Image Collection
 - https://unsplash.com/
