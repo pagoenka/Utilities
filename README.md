@@ -148,6 +148,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Screen Recording Video recording and live streaming
 - http://ink2go.org/
 - https://obsproject.com/
+- https://www.freescreenrecording.com/
 
 # Tech Stack Sharing
 - https://stackshare.io/
