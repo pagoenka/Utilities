@@ -54,6 +54,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://onlineimagetools.com/
 - https://www.befunky.com/
 
+# Animation &  CG Graphics
+- https://fxhome.com/product/hitfilm-express (Hitfilm)
+
 # Image background remover
 - https://clippingmagic.com/
 - https://remove.bg
