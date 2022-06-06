@@ -57,6 +57,18 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Animation &  CG Graphics
 - https://fxhome.com/product/hitfilm-express (Hitfilm)
 
+# Sound Editor / Sound Studio
+- https://www.apple.com/in/mac/garageband/
+
+
+# Screen Recording Video recording and live streaming
+- http://ink2go.org/
+- https://obsproject.com/
+- https://www.freescreenrecording.com/
+
+# Video Editor
+- https://www.openshot.org/download/
+
 # Image background remover
 - https://clippingmagic.com/
 - https://remove.bg
@@ -152,14 +164,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Learn Algo
 - https://www.algoexpert.io/product
-
-# Screen Recording Video recording and live streaming
-- http://ink2go.org/
-- https://obsproject.com/
-- https://www.freescreenrecording.com/
-
-# Video Editor
-- https://www.openshot.org/download/
 
 # Tech Stack Sharing
 - https://stackshare.io/
