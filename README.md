@@ -53,6 +53,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.photopea.com/
 - https://onlineimagetools.com/
 - https://www.befunky.com/
+- https://www.brandbird.app/studio
 
 # Animation &  CG Graphics
 - https://fxhome.com/product/hitfilm-express (Hitfilm)
