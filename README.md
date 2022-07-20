@@ -54,6 +54,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://onlineimagetools.com/
 - https://www.befunky.com/
 - https://www.brandbird.app/studio
+- https://pfpmaker.com/ (profile pic maker)
 
 # Animation &  CG Graphics
 - https://fxhome.com/product/hitfilm-express (Hitfilm)
