@@ -277,5 +277,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Network Tools
 - https://httptoolkit.tech/
 
-# Free Courses
+# Free Courses & books
 - https://www.openculture.com/freeonlinecourses
+- https://d2l.ai/
