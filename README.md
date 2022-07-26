@@ -98,6 +98,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.stockio.com/
 - https://zoomstock.com/
 - https://mixkit.co/
+- https://www.freepik.com/
 
 # Lorem Ipsum Generator
 - https://picsum.photos/ (For Pics)
