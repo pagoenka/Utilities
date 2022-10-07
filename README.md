@@ -275,6 +275,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Website downloader
 - https://site-dwloader.herokuapp.com/
+- https://www.kiwix.org/en/
 
 # Communication/Thinking
 - https://untools.co/
