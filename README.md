@@ -250,6 +250,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://pdf.math.dev/
 - https://www.ilovepdf.com/
 - https://pdfsam.org/
+- https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools
 
 # Screen Recording, Screenshot
 - https://asciinema.org/
