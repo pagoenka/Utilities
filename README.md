@@ -287,3 +287,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Free Courses & books
 - https://www.openculture.com/freeonlinecourses
 - https://d2l.ai/
+
+# Collaboration tools
+- https://www.mural.co/
