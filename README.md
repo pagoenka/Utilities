@@ -26,6 +26,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://pencil.evolus.vn/
 - https://www.diagrams.net/
 - https://pageflows.com/
+- https://github.com/terrastruct/d2
 
 # HTML / CSS / Fonts / Icons / Colour Pallete
 - https://resourcecards.com/
