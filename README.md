@@ -27,6 +27,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.diagrams.net/
 - https://pageflows.com/
 - https://github.com/terrastruct/d2
+- https://xosh.org/text-to-diagram/
 
 # HTML / CSS / Fonts / Icons / Colour Pallete
 - https://resourcecards.com/
