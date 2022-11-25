@@ -123,6 +123,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Data Visulization
 - https://app.rawgraphs.io/
+- https://jsoncrack.com/
+- https://jsonhero.io/
 
 # Online JS Editor/Tester
 - https://jsfiddle.net/
@@ -155,6 +157,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # JSON/CSV Parsing
 - https://onlinecsvtools.com/
+- https://jsoncrack.com/
+- https://jsonhero.io/
 
 # IP & Geolocation
 - https://ipdata.co/
