@@ -300,3 +300,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Collaboration tools
 - https://www.mural.co/
 - Miro
+
+# Simulators
+- https://www.withdiode.com/   Ciruit Simulator
