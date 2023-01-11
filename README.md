@@ -60,6 +60,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.befunky.com/
 - https://www.brandbird.app/studio
 - https://pfpmaker.com/ (profile pic maker)
+- https://getpaint.net/
 
 # Animation &  CG Graphics
 - https://fxhome.com/product/hitfilm-express (Hitfilm)
