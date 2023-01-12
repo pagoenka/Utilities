@@ -304,3 +304,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Simulators
 - https://www.withdiode.com/   Ciruit Simulator
+
+# Programming & Language
+- https://superruzafa.github.io/visual-scala-reference//
