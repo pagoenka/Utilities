@@ -73,6 +73,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - http://ink2go.org/
 - https://obsproject.com/
 - https://www.freescreenrecording.com/
+- https://vento.so/
 
 # Video Editor
 - https://www.openshot.org/download/
