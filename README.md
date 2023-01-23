@@ -310,3 +310,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Programming & Language
 - https://superruzafa.github.io/visual-scala-reference//
 - https://www.patterns.dev/
+
+# Security Tools
+- https://offsec.tools/
