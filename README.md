@@ -317,3 +317,12 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Home Integrior Design
 - https://www.sweethome3d.com/
+
+# Flow / Data Automation / Low Code tools
+- https://airbyte.com/
+- https://www.activepieces.com/pieces
+- https://nodered.org/
+- https://n8n.io/
+- https://github.com/cptn-io/el-cptn
+- https://news.ycombinator.com/item?id=35864661
+- 
