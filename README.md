@@ -328,3 +328,5 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Synthetic Data Generation
 - https://github.com/sdv-dev/SDV
+- https://github.com/joke2k/faker
+- https://www.getsynth.com/
