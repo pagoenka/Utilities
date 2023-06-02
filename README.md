@@ -325,4 +325,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://n8n.io/
 - https://github.com/cptn-io/el-cptn
 - https://news.ycombinator.com/item?id=35864661
-- 
+
+# Synthetic Data Generation
+- https://github.com/sdv-dev/SDV
