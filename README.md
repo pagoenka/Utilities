@@ -31,6 +31,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://xosh.org/text-to-diagram/
 - https://d2lang.com/
 - https://sketch.systems/
+- https://penrose.cs.cmu.edu/
 
 # HTML / CSS / Fonts / Icons / Colour Pallete
 - https://resourcecards.com/
