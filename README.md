@@ -65,8 +65,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://pfpmaker.com/ (profile pic maker)
 - https://getpaint.net/
 
-# Animation &  CG Graphics
-- https://fxhome.com/product/hitfilm-express (Hitfilm)
 
 # Sound Editor / Sound Studio
 - https://www.apple.com/in/mac/garageband/
@@ -78,9 +76,19 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.freescreenrecording.com/
 - https://vento.so/
 
+# Screen Recording, Screenshot
+- https://asciinema.org/
+- MC ClipChamp
+  
 # Video Editor
 - https://www.openshot.org/download/
 - MC ClipChamp
+
+# Animation & CG Graphics
+- https://fxhome.com/product/hitfilm-express (Hitfilm)
+- https://www.wickeditor.com/#/
+- https://excalidraw.com/
+- https://www.nchsoftware.com/animation/index.html
 
 # Image background remover
 - https://clippingmagic.com/
@@ -268,8 +276,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://pdfsam.org/
 - https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools
 
-# Screen Recording, Screenshot
-- https://asciinema.org/
 
 # Automation Tools
 - https://www.autohotkey.com/
@@ -284,8 +290,16 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/dinedal/textql
 - https://harelba.github.io/q/
 
-# API Testing/Code generator
+# API Testing Tool / Code generator
 - https://reqbin.com/
+- https://www.postman.com/
+- https://insomnia.rest/
+- https://hoppscotch.io/
+- https://www.thunderclient.com/
+- https://httpie.io/
+- https://paw.cloud/
+- https://http-prompt.com/
+- https://firecamp.io/
 
 # Beautify Code
 - https://ray.so/
