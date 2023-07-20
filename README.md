@@ -80,6 +80,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Video Editor
 - https://www.openshot.org/download/
+- MC ClipChamp
 
 # Image background remover
 - https://clippingmagic.com/
