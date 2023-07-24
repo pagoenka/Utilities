@@ -49,6 +49,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://feathericons.com/
 - https://brick.im/
 - https://tailwind.ink/
+- https://iconbuddy.app/
 
 # UI toolkit
 - https://www.uidesigndaily.com/
