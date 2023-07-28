@@ -85,11 +85,12 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.openshot.org/download/
 - MC ClipChamp
 
-# Animation & CG Graphics
+# Animation & CG Graphics editor
 - https://fxhome.com/product/hitfilm-express (Hitfilm)
 - https://www.wickeditor.com/#/
 - https://excalidraw.com/
 - https://www.nchsoftware.com/animation/index.html
+- https://graphite.rs/
 
 # Image background remover
 - https://clippingmagic.com/
