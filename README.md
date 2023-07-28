@@ -85,6 +85,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.openshot.org/download/
 - MC ClipChamp
 
+# Video Transcoder
+- https://handbrake.fr/
+
 # Animation & CG Graphics editor
 - https://fxhome.com/product/hitfilm-express (Hitfilm)
 - https://www.wickeditor.com/#/
