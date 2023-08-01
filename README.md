@@ -32,6 +32,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://d2lang.com/
 - https://sketch.systems/
 - https://penrose.cs.cmu.edu/
+- Crete calendar/gant chart using markdown
+- https://markwhen.com/
 
 # HTML / CSS / Fonts / Icons / Colour Pallete
 - https://resourcecards.com/
