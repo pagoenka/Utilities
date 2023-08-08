@@ -359,3 +359,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/sdv-dev/SDV
 - https://github.com/joke2k/faker
 - https://www.getsynth.com/
+
+# Mobile app
+- https://www.simplemobiletools.com/
