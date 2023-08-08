@@ -67,6 +67,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.brandbird.app/studio
 - https://pfpmaker.com/ (profile pic maker)
 - https://getpaint.net/
+- https://www.photoeditor.com/
+- https://www.postermaker.com/
 
 
 # Sound Editor / Sound Studio
