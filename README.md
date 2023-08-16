@@ -98,6 +98,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://excalidraw.com/
 - https://www.nchsoftware.com/animation/index.html
 - https://graphite.rs/
+- https://www.lottielab.com/
+- https://rive.app/
 
 # Image background remover
 - https://clippingmagic.com/
