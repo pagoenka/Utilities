@@ -180,10 +180,12 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Regex tools
 - https://regexr.com/
 
-# JSON/CSV Parsing
+# JSON/CSV Parsing / Tools
 - https://onlinecsvtools.com/
 - https://jsoncrack.com/
 - https://jsonhero.io/
+- Faster CSV editort
+- https://www.moderncsv.com/
 
 # IP & Geolocation
 - https://ipdata.co/
