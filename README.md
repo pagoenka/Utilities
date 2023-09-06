@@ -320,6 +320,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Beautify Code
 - https://ray.so/
+- https://chalk.ist/
 
 # Website downloader
 - https://site-dwloader.herokuapp.com/
