@@ -316,6 +316,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://paw.cloud/
 - https://http-prompt.com/
 - https://firecamp.io/
+- https://recipeui.com/
 
 # Beautify Code
 - https://ray.so/
