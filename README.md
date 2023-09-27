@@ -371,3 +371,12 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Observability Monitoring Tool
 - https://github.com/keephq/keep
+- 
+# BI tools
+- https://github.com/datalens-tech
+- Superset
+- https://github.com/evidence-dev/evidence
+- https://www.metabase.com/
+- https://www.appsmith.com/
+- https://www.veezoo.com/
+- https://www.sigmacomputing.com/
