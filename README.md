@@ -72,8 +72,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.postermaker.com/
 
 
-# Sound Editor / Sound Studio
+# Audio Editor / Sound Editor / Sound Studio
 - https://www.apple.com/in/mac/garageband/
+- https://ardour.org/
 
 
 # Screen Recording Video recording and live streaming
