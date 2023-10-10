@@ -247,6 +247,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
  # Mathematics
  - https://www.derivative-calculator.net/
  - https://www.mathpapa.com/
+ - Interactive animated math explaination
+ - https://explanaria.github.io/
 
 # Competitive Coding
 - Leetcode
