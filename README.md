@@ -75,6 +75,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Audio Editor / Sound Editor / Sound Studio
 - https://www.apple.com/in/mac/garageband/
 - https://ardour.org/
+- https://www.audacityteam.org/
 
 
 # Screen Recording Video recording and live streaming
