@@ -14,6 +14,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Mocks, Prototype, Flow, Sequence &  Diagrams
 - draw.io
 - https://github.com/penpot/penpot
+- tldraw
 - https://excalidraw.com/
 - https://balsamiq.com/
 - https://www.yworks.com/products/yed
