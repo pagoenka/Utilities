@@ -92,6 +92,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Video Editor
 - https://www.openshot.org/download/
 - MC ClipChamp
+- https://www.pitivi.org/
 
 # Video Transcoder
 - https://handbrake.fr/
