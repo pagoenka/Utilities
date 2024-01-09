@@ -150,6 +150,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - Plotly.js
 - Highchart
 - https://leeoniya.github.io/uPlot/
+- https://echarts.apache.org/
 
 # Data Visulization
 - https://app.rawgraphs.io/
@@ -388,3 +389,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.appsmith.com/
 - https://www.veezoo.com/
 - https://www.sigmacomputing.com/
+
+# Docker tools
+- https://github.com/wagoodman/dive
+
+# LLM Tools
+- https://wiki.mutable.ai/?env=production
+- https://news.agpt.co/
