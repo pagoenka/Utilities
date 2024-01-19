@@ -396,3 +396,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # LLM Tools
 - https://wiki.mutable.ai/?env=production
 - https://news.agpt.co/
+
+# Legal Documents
+- https://www.avodocs.com/
+- https://commonpaper.com/
+- https://www.iubenda.com/en/
+- https://www.termsfeed.com/
+- https://termly.io/
