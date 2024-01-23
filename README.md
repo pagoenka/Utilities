@@ -55,8 +55,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://tailwind.ink/
 - https://iconbuddy.app/
 
-# UI toolkit
+# UI/UX toolkit/related stuff
 - https://www.uidesigndaily.com/
+- https://www.uxtoast.com/design-tips/gestalt-principles-in-ui
 
 # Image Editors
 - https://krita.org/en/
@@ -403,3 +404,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.iubenda.com/en/
 - https://www.termsfeed.com/
 - https://termly.io/
+
+# User Analytics Trackers
+- https://posthog.com/
+
+# Product / Process
+- https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely
+- https://www.pmi.org/disciplined-agile/process/product-management/mvps-and-mbis
