@@ -37,6 +37,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://markwhen.com/
 - https://nomnoml.com/
 
+- Websit Inspiration
+- https://www.curated.design/
+
 # HTML / CSS / Fonts / Icons / Colour Pallete
 - https://resourcecards.com/
 - CSS Tricks
