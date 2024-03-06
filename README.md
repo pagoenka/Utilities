@@ -281,6 +281,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://ciechanow.ski/
 - https://www.nosignup.tools/
 - https://charactercreator.org/
+- https://libraryofjuggling.com/
 
 # DR & Chaos Testing
 - https://github.com/Netflix/chaosmonkey
