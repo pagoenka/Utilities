@@ -246,6 +246,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.engineeringtoolbox.com/
 - https://app.daily.dev/
 - https://www.producthunt.com/
+- https://interestingengineering.com/
 
 # Ambient Sound
  - https://asoftmurmur.com/
