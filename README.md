@@ -139,6 +139,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://mixkit.co/
 - https://www.freepik.com/
 
+# Image Upscaler
+- https://www.upscayl.org/
+
 # Lorem Ipsum Generator
 - https://picsum.photos/ (For Pics)
 - https://www.lipsum.com/
