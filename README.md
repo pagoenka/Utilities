@@ -11,6 +11,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/toplap/awesome-livecoding
 - https://ooh.directory/
 
+# Diff
+- https://diffoscope.org/
+
 # Mocks, Prototype, Flow, Sequence &  Diagrams
 - draw.io
 - https://github.com/penpot/penpot
