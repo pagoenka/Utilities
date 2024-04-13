@@ -426,3 +426,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Product / Process
 - https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely
 - https://www.pmi.org/disciplined-agile/process/product-management/mvps-and-mbis
+
+# Reacftor / Re write code
+- https://github.com/openrewrite/rewrite
