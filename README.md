@@ -14,6 +14,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Diff
 - https://diffoscope.org/
 
+# Linux
+- https://apps.kde.org/
+
 # Mocks, Prototype, Flow, Sequence &  Diagrams
 - draw.io
 - https://github.com/penpot/penpot
