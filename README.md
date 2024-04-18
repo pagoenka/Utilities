@@ -270,6 +270,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
  - https://www.mathpapa.com/
  - Interactive animated math explaination
  - https://explanaria.github.io/
+ - https://jrmf.org/puzzle/
 
 # Competitive Coding
 - Leetcode
