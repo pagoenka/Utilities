@@ -46,7 +46,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - Websit Inspiration
 - https://www.curated.design/
 
-# HTML / CSS / Fonts / Icons / Colour Pallete
+# HTML / CSS / Fonts / Icons / Colour Pallete /SVG
 - https://resourcecards.com/
 - CSS Tricks
 - http://cssicon.space/
@@ -64,6 +64,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://tailwind.ink/
 - https://iconbuddy.app/
 - https://www.v0.app/
+- https://www.svgviewer.dev/
 
 # UI/UX toolkit/related stuff
 - https://www.uidesigndaily.com/
