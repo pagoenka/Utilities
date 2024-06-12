@@ -110,6 +110,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - MC ClipChamp
 - https://www.pitivi.org/
 
+# Video Programming
+- https://github.com/motion-canvas
+- https://github.com/redotvideo/revideo
+
 # Video Transcoder
 - https://handbrake.fr/
 
