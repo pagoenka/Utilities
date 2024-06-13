@@ -104,6 +104,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Screen Recording, Screenshot
 - https://asciinema.org/
 - MC ClipChamp
+- https://flameshot.org/
+- https://getsharex.com/
+- https://getgreenshot.org/
+- https://apps.kde.org/spectacle/
   
 # Video Editor
 - https://www.openshot.org/download/
