@@ -428,9 +428,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/wagoodman/dive
 - https://testcontainers.com/
 
-# LLM Tools
+# LLM/ AI / Artificial Intelligence Tools
 - https://wiki.mutable.ai/?env=production
 - https://news.agpt.co/
+- https://theresanaiforthat.com/popular/
 
 # Legal Documents
 - https://www.avodocs.com/
