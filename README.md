@@ -243,8 +243,14 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://algorithm-visualizer.org/
 - http://www.algomation.com/
 
-# Visual Program Execution
+# Visual Programming / Execution /Exploration
 - https://pythontutor.com/
+- https://gtoolkit.com/start/
+- https://unit.tools/
+- [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=all)
+- https://www.falstad.com/circuit/
+- https://github.com/CoatiSoftware/Sourcetrail
+- https://unit.software/
 
 # Learn Algo
 - https://www.algoexpert.io/product
