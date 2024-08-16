@@ -439,6 +439,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://wiki.mutable.ai/?env=production
 - https://news.agpt.co/
 - https://theresanaiforthat.com/popular/
+- https://comfyworkflows.com/
+- flux.1
 
 # Legal Documents
 - https://www.avodocs.com/
