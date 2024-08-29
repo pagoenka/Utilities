@@ -458,3 +458,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Reacftor / Re write code
 - https://github.com/openrewrite/rewrite
+
+# Roadmaps
+- https://roadmap.sh/
+- https://github.com/sjpiper145/MakerSkillTree
