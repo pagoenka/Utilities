@@ -231,6 +231,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # MAP data & API
 
+# Public API list
+- https://www.freepublicapis.com/
+
 # Gesture libraries & tools
 - https://webgazer.cs.brown.edu/ (For EYE tracking)
 
