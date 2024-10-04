@@ -468,3 +468,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
   
 # Crawlers
 - https://crawler.siteone.io/
+
+# Temporary Mail
+- https://temp.now/
