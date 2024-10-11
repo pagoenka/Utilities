@@ -101,6 +101,13 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.freescreenrecording.com/
 - https://vento.so/
 
+# Virtual Monitor for sharing
+- https://news.ycombinator.com/item?id=41800602
+- https://github.com/itsmikethetech/Virtual-Display-Driver
+- https://github.com/tom-englert/RegionToShare
+- https://obsproject.com/kb/power-of-projectors
+- https://github.com/Stengo/DeskPad
+
 # Screen Recording, Screenshot
 - https://asciinema.org/
 - MC ClipChamp
