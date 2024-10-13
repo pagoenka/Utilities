@@ -137,6 +137,8 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.lottielab.com/
 - https://rive.app/
 - https://pikimov.com/
+- Visualize Your Ideas With Code
+- https://motioncanvas.io/
 
 # Image background remover
 - https://clippingmagic.com/
@@ -478,3 +480,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 
 # Temporary Mail
 - https://temp.now/
+- 
+
+# Good Video Links
+- Math Science Physics
+- https://www.youtube.com/@3blue1brown
+- https://some.3b1b.co/
+- https://www.youtube.com/@aarthificialt
