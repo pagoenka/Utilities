@@ -46,6 +46,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - Crete calendar/gant chart using markdown
 - https://markwhen.com/
 - https://nomnoml.com/
+- https://github.com/mingrammer/diagrams
 
 - Websit Inspiration
 - https://www.curated.design/
@@ -180,9 +181,26 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Text to Diagram (Flow)
 - https://smusamashah.github.io/text-to-diagram/
 - https://mermaid-js.github.io/mermaid/#/
-
+- 
+# ASCII
+- https://code.sgo.to/typograms/#installation
 - Mermaid digram to ASCII
 - https://mermaid-ascii.art/
+- ASCII to SVG
+- https://ivanceras.github.io/svgbob-editor/
+- https://casual-effects.com/markdeep/
+- https://ivanceras.github.io/bob-editor/
+- https://mbarkhau.github.io/asciigrid/
+- https://ditaa.sourceforge.net/
+- https://github.com/blampe/goat
+- https://www.luismg.com/protocol/
+- https://diagon.arthursonzogni.com/
+- https://textart.io/sequence
+- https://weidagang.github.io/text-diagram/
+- https://diagwiz.io/playground/
+- 
+- A large collection of ASCII art drawings
+- https://www.asciiart.eu/
 
 # Visualization
 - D3.js
