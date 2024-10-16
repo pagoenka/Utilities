@@ -181,6 +181,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://smusamashah.github.io/text-to-diagram/
 - https://mermaid-js.github.io/mermaid/#/
 
+- Mermaid digram to ASCII
+- https://mermaid-ascii.art/
+
 # Visualization
 - D3.js
 - http://chartmaker.visualisingdata.com/
