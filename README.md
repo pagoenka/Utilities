@@ -52,6 +52,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - Websit Inspiration
 - https://www.curated.design/
 
+- Visualize your Markdown as mindmaps
+- https://markmap.js.org/repl
+
 # HTML / CSS / Fonts / Icons / Colour Pallete /SVG
 - https://resourcecards.com/
 - CSS Tricks
