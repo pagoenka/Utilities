@@ -46,6 +46,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - Crete calendar/gant chart using markdown
 - https://markwhen.com/
 - https://nomnoml.com/
+- Diagram as Code for prototyping cloud system architectures (aws)
 - https://github.com/mingrammer/diagrams
 
 - Websit Inspiration
