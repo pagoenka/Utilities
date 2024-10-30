@@ -447,6 +447,11 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/cptn-io/el-cptn
 - https://news.ycombinator.com/item?id=35864661
 
+# Code Assist using LLMs
+- https://github.com/twinnydotdev/twinny
+- https://www.continue.dev/
+- https://github.com/cline/cline
+
 # Synthetic Data Generation
 - https://github.com/sdv-dev/SDV
 - https://github.com/joke2k/faker
