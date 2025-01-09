@@ -318,6 +318,15 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.producthunt.com/
 - https://interestingengineering.com/
 
+# Blogs Directory
+- https://blogs.hn
+- https://ooh.directory
+- https://deadsimplesites.com
+- https://peopleandblogs.com
+- https://nownownow.com
+- https://blogroll.org
+- https://kagi.com/smallweb
+
 # Ambient Sound
  - https://asoftmurmur.com/
  - https://noises.online/
