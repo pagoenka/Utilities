@@ -340,6 +340,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
  - Interactive animated math explaination
  - https://explanaria.github.io/
  - https://jrmf.org/puzzle/
+ - https://www.youtube.com/@quantumsensechannel/videos
 
 # Competitive Coding
 - Leetcode
@@ -494,6 +495,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://theresanaiforthat.com/popular/
 - https://comfyworkflows.com/
 - flux.1
+
+# Agenting App Builders LLM AI App Builders
+- https://bolt.new/
+- https://bolt.new/
 
 # Legal Documents
 - https://www.avodocs.com/
