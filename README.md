@@ -146,6 +146,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - Visualize Your Ideas With Code
 - https://motioncanvas.io/
 
+
+# js animation
+- https://animejs.com
+
 # Image background remover
 - https://clippingmagic.com/
 - https://remove.bg
