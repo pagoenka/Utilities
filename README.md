@@ -540,3 +540,6 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://www.youtube.com/@3blue1brown
 - https://some.3b1b.co/
 - https://www.youtube.com/@aarthificialt
+- 
+# Self Hosting
+- https://unraid.net/
