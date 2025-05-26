@@ -140,6 +140,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://excalidraw.com/
 - https://www.nchsoftware.com/animation/index.html
 - https://graphite.rs/
+- https://lottie.github.io/
 - https://www.lottielab.com/
 - https://rive.app/
 - https://pikimov.com/
