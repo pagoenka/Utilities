@@ -11,6 +11,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/toplap/awesome-livecoding
 - https://ooh.directory/
 
+# Terminal Tools
+- https://ratatui.rs/showcase/apps/
+
 # Diff
 - https://diffoscope.org/
 
