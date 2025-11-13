@@ -11,6 +11,10 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/toplap/awesome-livecoding
 - https://ooh.directory/
 
+# MCP
+- https://github.com/basicmachines-co/basic-memory
+- https://github.com/smithery-ai/mcp-obsidian
+
 # Terminal Tools
 - https://ratatui.rs/showcase/apps/
 
