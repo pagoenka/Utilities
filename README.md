@@ -56,6 +56,7 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - Diagram as Code for prototyping cloud system architectures (aws)
 - https://github.com/mingrammer/diagrams
 - https://www.onlinegantt.com/
+- https://penpot.app/
 
 - Websit Inspiration
 - https://www.curated.design/
