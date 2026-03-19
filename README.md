@@ -18,6 +18,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 # Terminal Tools
 - https://ratatui.rs/showcase/apps/
 
+# Electronics
+- https://www.withdiode.com/
+
 # Diff
 - https://diffoscope.org/
 
