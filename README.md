@@ -15,6 +15,9 @@ Listing of various softwares/ libraries / websites / blogs / online tools which 
 - https://github.com/basicmachines-co/basic-memory
 - https://github.com/smithery-ai/mcp-obsidian
 
+# Devops practice
+- https://labs.iximiuz.com/
+
 # Terminal Tools
 - https://ratatui.rs/showcase/apps/
 
